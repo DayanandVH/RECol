@@ -1,0 +1,10 @@
+,dataset,accuracy
+0,pen-local-unsupervised-ad.csv,0.9218
+1,pen-global-unsupervised-ad.csv,0.86
+2,breast-cancer-unsupervised-ad.csv,0.7853
+3,speech-unsupervised-ad.csv,0.0539
+4,aloi-unsupervised-ad.csv,0.727
+5,shuttle-unsupervised-ad.csv,0.796
+6,letter-unsupervised-ad.csv,0.9056
+7,satellite-unsupervised-ad.csv,0.9563
+8,annthyroid-unsupervised-ad.csv,0.1436
