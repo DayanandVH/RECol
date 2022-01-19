@@ -14,22 +14,6 @@ can hardly be reconstructedby the relationships in the data.
 
 For more information please refer the original paper.
 
-Note: 
-- Dataset link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OPQMVF
-- For using the dataset please cite:
-@article{goldstein,
-    author = {Goldstein, Markus AND Uchida, Seiichi},
-    journal = {PLOS ONE},
-    publisher = {Public Library of Science},
-    title = {A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data},
-    year = {2016},
-    month = {04},
-    volume = {11},
-    url = {https://doi.org/10.1371/journal.pone.0152173},
-    pages = {1-31},
-    doi = {10.1371/journal.pone.0152173}
-}
-
 Repository Structure
 --------------------
 
@@ -73,6 +57,23 @@ For Running the Code
 - Download the zip file and extract.
 - cd RECol-master
 - start jupyter notebook and open .ipynb files
+
+Note
+---- 
+- Dataset link: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/OPQMVF
+- For using the dataset please cite:
+@article{goldstein,
+    author = {Goldstein, Markus AND Uchida, Seiichi},
+    journal = {PLOS ONE},
+    publisher = {Public Library of Science},
+    title = {A Comparative Evaluation of Unsupervised Anomaly Detection Algorithms for Multivariate Data},
+    year = {2016},
+    month = {04},
+    volume = {11},
+    url = {https://doi.org/10.1371/journal.pone.0152173},
+    pages = {1-31},
+    doi = {10.1371/journal.pone.0152173}
+}
 
 
 Contributors
